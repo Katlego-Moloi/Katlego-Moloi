@@ -1,30 +1,51 @@
 # 👋 Hi, I’m @Katlego-Moloi
 
-I'm an IT enthusiast and final-year BSc student majoring in Computer Science and Business Management at the University of the Free State. My journey in tech is driven by a passion for learning and a challenge I embraced to step into an industry I initially found daunting.
+💻 BSc IT (Computer Science & Business Management) graduate  
+🚀 Full-Stack Developer focused on building practical software solutions  
+🎓 University of the Free State  
 
-## 👀 I’m interested in
-- Full-stack development (mobile and web)
-- Software engineering
-- IT project management
-- Data science
+---
 
+## 🛠️ Tech Stack
+
+**Languages**
+- C#
+- JavaScript
+- Python
+- SQL
+- HTML & CSS
+
+**Frameworks & Tools**
+- .NET / ASP.NET, React/Next.js
+- Bootstrap, Tailwing
+- Git & GitHub
+- SQLite, PostGres
+- REST APIs
+
+---
 ## 🌱 I’m currently learning
 - Advanced full-stack development techniques
 - Software engineering best practices
 - Agile project management
 
 ## 💼 Experience
-- **Student Assistant - Career Services, UFSQ** (April 2024 - Present)
-  - Assisting students with work readiness through workshops and one-on-one sessions.
 
-- **IT Student Association Executive Liaison** (2024)
+**Student Assistant – Career Services, University of the Free State (UFSQ)**  
+*April 2024 – Present*  
+- Facilitate student work-readiness through workshops and one-on-one guidance.  
+- Assist students in leveraging tools like AI and digital platforms for career development, networking, and job applications.
 
-- **Enactus UFSQ**
-  - **Deputy President (2022 - 2023)**
-  - **Treasurer (2023 - Present)**
+**Executive Liaison – IT Student Association, UFSQ**  
+*2024*  
+- Acted as a bridge between IT students and the association leadership, supporting communication and coordination of student-focused initiatives.
 
-- **Self-Employed Computer Technician** (2023)
-  - Assisting students with software and hardware issues.
+**Enactus UFSQ**  
+- **Treasurer (2023 – Present)** – Managing financial records and supporting project sustainability.  
+- **Deputy President (2022 – 2023)** – Led team coordination and supported entrepreneurship-driven community projects.
+
+**Self-Employed Computer Technician**  
+*2023*  
+- Provided technical support to students including software troubleshooting, system setup, and hardware maintenance.
 
 ## 🏆 Achievements
 - Represented South Africa at the Enactus World Cup 2023
@@ -39,12 +60,3 @@ I'm an IT enthusiast and final-year BSc student majoring in Computer Science and
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/Tubatse-Katlego-Moloi)
 - [Email](mailto:tubatse.kmoloi@gmail.com)
-
-## My Organisations
-- **WolvesofWallStreetUFS**
-  - Built a UFS clinic web and mobile app during 2023-2024.
-  
-- **SWMG**
-  - Participated with this team in the Entelect University Cup.
-
-## 😄 Pronouns: He/Him
